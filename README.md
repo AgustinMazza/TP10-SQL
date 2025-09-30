@@ -7,6 +7,7 @@ Año: 2025
 
 Integrantes (comisión 1, grupo 11):
 
+
 -Jeremías Sirur Flores
 -Mauricio Reta
 -Juan Cruz Rodriguez 
